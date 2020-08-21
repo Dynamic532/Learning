@@ -1,0 +1,35 @@
+1. How to do file specific search
+use filetype:ppt , filetype:pdf etc
+ex : core java filetype:ppt
+
+------------------------------------------
+2.use + or - for specific search
+like if you want to add specific word in your search then add + 
+ex : tcs +resign   
+this will show all related to resign from tcs
+
+like if you want to minus specific word in your search then add -
+ex : tcs -resign
+this will show all related to tcs except resign
+
+------------------------------------------
+3.if you want to search related to specific line only then user ""
+ex : "life is race"
+
+------------------------------------------
+4.use * if you don't know exact work at their location 
+ex : mere * qamar * 
+then it will show mere rashke qamar song
+
+------------------------------------------
+5.use site:   and  related: 
+ex : site: tcs quora  
+it will show only tcs info from quora site only
+
+ex : related: amazon.in
+it will show all related sites of amazon like flipcart etc.
+
+------------------------------------------
+
+
+
