@@ -31,7 +31,7 @@ it will show all related sites of amazon like flipcart etc.
 
 ------------------------------------------
 
-Sometghing added 
+
 
 
 
